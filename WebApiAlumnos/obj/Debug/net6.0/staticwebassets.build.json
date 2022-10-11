@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "iF8q+UFAZzwC8beVT+5dWUVESK2xZ/XXBp18yinKlvI=",
+  "Source": "WebApiAlumnos",
+  "BasePath": "_content/WebApiAlumnos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAlumnos\\wwwroot",
+      "Source": "WebApiAlumnos",
+      "ContentRoot": "C:\\Users\\Gustavo Rdz\\Documents\\Gustavo\\Proyectos\\WebApiAlumnos\\WebApiAlumnos\\wwwroot\\",
+      "BasePath": "_content/WebApiAlumnos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Gustavo Rdz\\Documents\\Gustavo\\Proyectos\\WebApiAlumnos\\WebApiAlumnos\\wwwroot\\Grupo036.txt",
+      "SourceId": "WebApiAlumnos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo Rdz\\Documents\\Gustavo\\Proyectos\\WebApiAlumnos\\WebApiAlumnos\\wwwroot\\",
+      "BasePath": "_content/WebApiAlumnos",
+      "RelativePath": "Grupo036.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Grupo036.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo Rdz\\Documents\\Gustavo\\Proyectos\\WebApiAlumnos\\WebApiAlumnos\\wwwroot\\nuevosRegistros.txt",
+      "SourceId": "WebApiAlumnos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo Rdz\\Documents\\Gustavo\\Proyectos\\WebApiAlumnos\\WebApiAlumnos\\wwwroot\\",
+      "BasePath": "_content/WebApiAlumnos",
+      "RelativePath": "nuevosRegistros.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\nuevosRegistros.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Gustavo Rdz\\Documents\\Gustavo\\Proyectos\\WebApiAlumnos\\WebApiAlumnos\\wwwroot\\registrosConsultados.txt",
+      "SourceId": "WebApiAlumnos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Gustavo Rdz\\Documents\\Gustavo\\Proyectos\\WebApiAlumnos\\WebApiAlumnos\\wwwroot\\",
+      "BasePath": "_content/WebApiAlumnos",
+      "RelativePath": "registrosConsultados.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\registrosConsultados.txt"
+    }
+  ]
+}
